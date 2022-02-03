@@ -1,0 +1,6 @@
+error.png
+test.png
+.env
+__pycache__/
+trace.log
+.vscode/

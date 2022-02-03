@@ -1,0 +1,3 @@
+cd [CHANGE TO PROJECT DIRECTORY]
+/[CHANGE TO PIPENV PATH]/pipenv run python3 /[CHANGE TO PROJECT DIRECTORY]/ifohunter.py 
+
